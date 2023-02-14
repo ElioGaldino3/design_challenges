@@ -8,7 +8,7 @@ Este desafio consiste em um página de registro responsivo para web/desktop e mo
 
 ## Resultado Final
 
-[](exemplo.mp4)
+<video src="./exemplo.mp4" controls></video>
 
 ## Requisitos
 
